@@ -38,9 +38,10 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 |------------|------|
 | On the podium (pulling test) | `media/podium.jpg` |
 | Machining spare forks | `media/spare_forks_machining.jpg` |
-| CNC setup for brake body | `media/brake_body_setup.jpg` |
+| CNC brake body results | `media/breaks_body_CNC_results.jpg` |
 | Pre-competition repair inside car | `media/pre_competition_repair.jpg` |
 | Team lathe training session | `media/team_lathe_training.jpg` |
+| Suspension bushings lathe machining | `media/lathe_machining.jpg` |
 | CNC machine working on wheel shaft | `media/cnc_wheelshaft_video.mp4` |
 
 
