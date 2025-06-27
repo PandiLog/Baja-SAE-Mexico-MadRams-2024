@@ -2,7 +2,7 @@
 
 Baja SAE is an international student competition organized by SAE International, where teams design, build, and race a single-seat off-road vehicle. The challenge focuses on engineering design, manufacturing, endurance, and cost-efficiency under real-world constraints.
 
-More about the competition: [Baja SAE México](https://bajasaemexico.com/)
+More about the competition: [Baja SAE México]([https://bajasaemexico.com/](https://www.saemx.org/bajasaemexico))
 
 This repository documents my technical involvement in the **Baja SAE México 2024** competition as a member of the **MadRams** team from Tecnológico de Monterrey, Campus Guadalajara.
 
