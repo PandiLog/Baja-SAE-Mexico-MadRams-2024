@@ -8,37 +8,47 @@ This repository documents my technical involvement in the **Baja SAE México 202
 
 During the design and preparation of the off-road vehicle, I contributed mainly to the **manufacturing and assembly areas**, including:
 
-- **Fabrication of critical components**, such as:
-  - Suspension bushings
-  - Spare suspension fork arms
-- **CNC machine setup assistance**, including:
+- **Fabrication of critical components**:
+  - I manufactured spare suspension forks arms.
+  - Manufactured suspension bushings using a bench lathe.
+- **CNC machine setup assistance**:
   - Centering and workpiece fixing
   - Tool selection and changes
   - Supervising basic CNC operations
-- **Key pre-competition assemblies**, including:
+- **Key pre-competition assemblies**:
   - Rear axle installation
-  - 4x4 chain installation 
+  - 4x4 chain installation
+- **Driving**:
+  - Piloted the car during the pulling test, contributing to our 1st place result.
 
 
 
 ## Competition Results
 
+- 1st place in the **pulling test** (driving performance).
 - **4th Place overall** – Baja SAE México 2024
+- Successfully passed all technical inspections.
 - Effective teamwork under high-pressure conditions
 
 
 
-## Visual Evidence
+## Project Media
 
-> The following pictures showcase some of my hands-on contributions during the manufacturing process. No CAD files are included.
+| Description | File |
+|------------|------|
+| On the podium (pulling test) | `media/podium.jpg` |
+| Machining spare forks | `media/spare_forks_machining.jpg` |
+| CNC setup for brake body | `media/brake_body_setup.jpg` |
+| Pre-competition repair inside car | `media/pre_competition_repair.jpg` |
+| Team lathe training session | `media/team_lathe_training.jpg` |
+| CNC machine working on wheel shaft | `media/cnc_wheelshaft_video.mp4` |
 
-| Suspension bushing (post-processed) | CNC setup | General assembly |
-|:--:|:--:|:--:|
-| ![bushing](images/bushing.jpg) | ![cnc](images/cnc-setup.jpg) | ![assembly](images/assembly.jpg) |
 
+## Tools and Skills Used
 
-## Tools and Equipment Used
-
+- Team Coordination under Pressure
+- Driving under Competitive Conditions
+- Manual Lathe Operation
 - **HAAS vertical CNC milling machine** (basic operation)
 - Micrometer, caliper
 - Flat and ball end mills
