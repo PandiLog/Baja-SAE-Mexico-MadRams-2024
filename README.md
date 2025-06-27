@@ -36,13 +36,13 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 
 | Description | File |
 |------------|------|
-| On the podium (pulling test) | `media/podium.jpg` |
-| Machining spare forks | `media/spare_forks_machining.jpg` |
-| CNC brake body results | `media/breaks_body_CNC_results.jpg` |
-| Pre-competition repair inside car | `media/pre_competition_repair.jpg` |
-| Team lathe training session | `media/team_lathe_training.jpg` |
-| Suspension bushings lathe machining | `media/lathe_machining.jpg` |
-| CNC machine working on wheel shaft | `media/cnc_wheelshaft_video.mp4` |
+| On the podium (pulling test) | `media/podium.jpg` [Open Image](Media/podium.jpg) |
+| Machining spare forks | `media/spare_forks_machining.jpg` [Open Image](Media/spare_forks_machining.jpg)|
+| CNC brake body results | `media/breaks_body_CNC_results.jpg` [Open Image](Media/breaks_body_CNC_results.jpg)|
+| Pre-competition repair inside car | `media/pre_competition_repair.jpg` [Open Image](Media/pre_competition_repair.jpg)|
+| Team lathe training session | `media/team_lathe_training.jpg` [Open Image](Media/team_lathe_training.jpg) |
+| Suspension bushings lathe machining | `media/lathe_machining.jpg` [Open Image](Media/lathe_machining.jpg) |
+| CNC machine working on wheel shaft | `media/cnc_wheelshaft_video.mp4` [Open Video](Media/cnc_wheelshaft_video.mp4) |
 
 
 ## Tools and Skills Used
