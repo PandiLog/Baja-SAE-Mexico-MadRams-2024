@@ -76,3 +76,8 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 Galo Aréchiga Gutiérrez  
 Mechanical Engineering – Tecnológico de Monterrey  
 [linkedin.com/in/galo-arechiga-gutierrez-b81b5935b](https://linkedin.com/in/galo-arechiga-gutierrez-b81b5935b)
+
+## License
+
+This repository is licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
