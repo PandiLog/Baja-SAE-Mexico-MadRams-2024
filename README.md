@@ -4,7 +4,7 @@ This repository documents my technical involvement in the **Baja SAE México 202
 
 ---
 
-## 🛠️ Role and Contributions
+## Role and Contributions
 
 During the design and preparation of the off-road vehicle, I contributed mainly to the **manufacturing and assembly areas**, including:
 
@@ -21,14 +21,14 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 
 ---
 
-## 🏁 Competition Results
+## Competition Results
 
 - **4th Place overall** – Baja SAE México 2024
 - Effective teamwork under high-pressure conditions
 
 ---
 
-## 📷 Visual Evidence
+## Visual Evidence
 
 > The following pictures showcase some of my hands-on contributions during the manufacturing process. No CAD files are included.
 
@@ -38,7 +38,7 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 
 ---
 
-## 🧰 Tools and Equipment Used
+## Tools and Equipment Used
 
 - **HAAS vertical CNC milling machine** (basic operation)
 - Micrometer, caliper
@@ -47,7 +47,7 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 
 ---
 
-## 📚 Key Learnings
+## Key Learnings
 
 - Reading and interpreting mechanical drawings.
 - Hands-on manufacturing of functional parts under real constraints
@@ -56,7 +56,7 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - No CAD files or mechanical drawings are included to respect the intellectual property of the MadRams team.
 - This repository serves only as **a record of my individual experience and learning** throughout the competition.
