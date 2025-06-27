@@ -10,7 +10,7 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
 
 - **Fabrication of critical components**, such as:
   - Suspension bushings
-  - Spare fork arms
+  - Spare suspension fork arms
 - **CNC machine setup assistance**, including:
   - Centering and workpiece fixing
   - Tool selection and changes
