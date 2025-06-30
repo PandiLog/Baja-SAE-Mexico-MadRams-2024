@@ -21,7 +21,7 @@ During the design and preparation of the off-road vehicle, I contributed mainly 
   - Supervising basic CNC operations
 - **Key pre-competition assemblies**:
   - Rear axle installation
-  - 4x4 chain installation
+  - 4x4 installation
 - **Driving**:
   - Piloted the car during the pulling test, contributing to our 1st place result.
 
